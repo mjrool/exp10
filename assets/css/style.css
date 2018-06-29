@@ -1,0 +1,119 @@
+/* Global Styles */
+h1, h4{
+	font-family: 'Playfair Display', serif;
+
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+/* Navbar */
+
+.navbar_barber{
+	background-color: black;
+	height: 70px;
+	padding-top: 0px;
+	color: hsla(0, 100%, 100%, 0.52);
+}
+
+.icon-bar{
+	background-color: #fff;
+
+}
+
+.navbar-brand{
+	padding: 0px 0px;
+	margin-bottom: 0px;
+}
+
+.navbar-brand img{
+	max-height: 100px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.navbar-nav > li > a{
+	color: #fff;
+	text-shadow: none;
+	text-transform: uppercase;
+	padding-top: 30px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+.navbar-nav > li > a{
+	background-color: initial;
+	color: hsla(0, 0%, 100%, .7);
+}
+
+.navbar{
+	margin-bottom: 0;
+}
+
+/* Header */
+.banner{
+	background-image: url(/Users/patricio/Desktop/Experiencia10/assets/img/post-image.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	background-position: right bottom;
+	height: 700px;
+	overflow: hidden;
+}
+
+.banner h1{
+	color: white;
+	font-size: 6em;
+	text-align: center;
+	padding-top: 20%;
+	line-height: 110px;
+}
+
+/* cuerpo */
+
+/* Footer */
+
+.footer__top{
+	background-image: url(/Users/patricio/Desktop/Experiencia10/assets/img/naomi-thai.png);
+	background-color: white;
+	background-size: cover;
+	height: 100px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.footer__middle{
+	background-color: #DEDEDE;
+	background-size: cover;
+	height: 100px;
+	
+	padding-top: 40px;
+}
+
+.footer__middle p{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	text-align: center;
+
+}
+
+.footer__icon{
+	background-color: black;
+	background-size: cover;
+	height: 100px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
