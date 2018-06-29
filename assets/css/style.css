@@ -54,7 +54,7 @@ p{
 
 /* Header */
 .banner{
-	background-image: url(../img/post-image.jpg);
+	background-image: url(post-image.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	text-align: center;
