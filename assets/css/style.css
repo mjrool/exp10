@@ -54,7 +54,7 @@ p{
 
 /* Header */
 .banner{
-	background-image: url(/Users/patricio/Desktop/Experiencia10/assets/img/post-image.jpg);
+	background-image: url(../img/post-image.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	text-align: center;
